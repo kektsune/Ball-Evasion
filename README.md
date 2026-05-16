@@ -1,4 +1,4 @@
-Ball Evasion is a Python-based mini-game where the player controls a red circle and must avoid incoming moving circles for as long as possible.
+Ball Evasion is a Python-based mini-game created in Visual Studio Code, where the player controls a red circle and must avoid incoming moving circles for as long as possible.
 
 Features
 - Drag and drop player control
